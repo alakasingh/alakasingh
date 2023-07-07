@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alakasingh
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning java + DSA and also lear Frontend web development 
+- 🌱 I’m currently learning java + DSA and also lern Frontend web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
